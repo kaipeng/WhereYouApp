@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhereYouApp</string>
+        <string name="pref_name">WhereYouApp Preferences</string>
+    
+    <string name="button_ok">Set Master Password Trigger</string>
+    <string name="password_label">New Master Password Trigger\n(in case you lose your phone):</string>
+    <string name="password_confirm_label">Confirm New Master Password Trigger:</string>
+        <string name="old_password_label">Old Master Password Trigger:</string>
+    
+</resources>
